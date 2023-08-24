@@ -27,6 +27,12 @@ $ hugo -d ../docs
 $ cd myblog
 $ hugo server
 ```
+
+## Create post
+```sh
+$ cd myblog
+$ hugo new posts/default-post.md # create content/default-post.md
+```
  
  ## Reference
  1. https://github.com/adityatelange/hugo-PaperMod/wiki/Installation
